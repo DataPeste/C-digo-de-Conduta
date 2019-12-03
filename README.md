@@ -22,7 +22,7 @@ Antes de postar ou interagir, **LEIA COM ATENÇÃO** todas as regras da comunida
 
 3- CLAREZA: Preze pela objetividade e clareza nas informações do seu post.
 
-4- CÓDIGOS: Caso o seu post possua códigos, faz-se o uso do CodePen(http://codepen.io/pen/), JSBin(http://jsbin.com/) ou JSFiddle(http://jsfiddle.net/) ou até mesmo o Github(https://github.com/) para demonstrá-los no grupo.
+4- CÓDIGOS: Caso o seu post possua códigos, faz-se o uso do CodePen(http://codepen.io/pen/), Pastebin(https://pastebin.com/) ou até mesmo o Github(https://github.com/) para demonstrá-los no grupo. Outra opção para compartilhar código juntamente com ambientente de desenvolvimento, é utilizar plataformas de prorgamação interativa com JupyterLab(https://jupyter.org/index.html) ou Google Colab(https://colab.research.google.com).
 
 5- ORGANIZAÇÃO: Para garantir a sanidade e boa organização do grupo, adicione o tipo de post antes da postagem caso sinta a necessidade de categoriza seu post. Por exemplo: [OFF], [EVENTO], [VAGA], [DÚVIDA].
 
